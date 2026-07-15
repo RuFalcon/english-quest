@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.env.*
+english-quest.zip
+english-quest.tar.gz
+.vercel
+.netlify
